@@ -1,4 +1,6 @@
-# SDXL-Turbo Text to Image Web Application
+# SDXL-Turbo Text to Image Generater
+
+![SDXL-Turbo](thumbnail.png)
 
 A web application that uses Stability AI's SDXL-Turbo model to generate images from text prompts. Built with Streamlit for a beautiful and interactive user interface.
 
